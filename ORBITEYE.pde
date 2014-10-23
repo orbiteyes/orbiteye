@@ -12,6 +12,7 @@ float outsideRadius3 = 240;
 float insideRadius3 = 90;
 float drumAmpL1;
 float r;
+float poop;
 
 void setup() {
   size(1024, 768);
